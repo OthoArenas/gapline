@@ -1,0 +1,16 @@
+Este texto será 
+utilizado para 
+probar el uso 
+de la extensión 
+para VS Code
+realizado para 
+la asignatura de
+Computación en 
+el Cliente Web
+de la Maestría
+en Ingeniería
+de Software y 
+Sistemas Informáticos
+de la Universidad
+de la Rioja en 
+México.
