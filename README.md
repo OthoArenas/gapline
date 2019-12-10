@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gapline README
 
 This is the README for your extension "gapline". After writing up a brief description, we recommend including the following sections.
@@ -63,3 +64,7 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# gapline
+Extensión para Virtual Studio Code desarrollada con TypeScript que permite solicitar al usuario cada cuántas líneas de un texto seleccionado, quiere que se inserte una línea en blanco. Solicitada como tarea por UNIR para la asignatura de Computación en el Cliente Web. Diciembre de 2019.
+>>>>>>> f7f2cd7d3c0fb46651e5c8269bfdcf52c2f61ec0
